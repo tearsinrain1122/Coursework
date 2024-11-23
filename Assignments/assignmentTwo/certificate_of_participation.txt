@@ -1,0 +1,15 @@
+Ellen's Film Trivia Quiz - Certificate of Participation
+
+Question: Which of the following was not one of `The Magnificent Seven`?
+Correct Answer: Clint Eastwood
+Congratulations, you got this right!
+
+Question: Who directed `E.T. the Extra-Terrestrial` (1982)?
+Correct Answer: Steven Spielberg
+Apologies, you got this wrong.
+
+Question: Where does the original Friday The 13th movie take place?
+Correct Answer: Camp Crystal Lake
+Apologies, you got this wrong.
+
+Thanks for playing! You got 1 out of 3 questions correct.

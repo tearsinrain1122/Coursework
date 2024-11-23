@@ -1,0 +1,5 @@
+# Please fill in HOST, USER and PASSWORD details for your MySQL here, between the ""
+HOST = ""
+USER = ""
+PASSWORD = ""
+DATABASE = "clothes_shop"
