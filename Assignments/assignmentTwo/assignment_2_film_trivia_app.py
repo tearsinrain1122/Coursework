@@ -77,17 +77,19 @@ def check_for_special_characters(question_or_answer):
 
 # I wanted to make a Certificate of Participation that recorded the score and correct answers, so rather
 # than write everything to a file at the end, I decided to make a function that would write any input to
-# a file, so that I could do this more easily as the program ran.
+# a file, so that I could do this more easily as the program ran. The correct file pathway should be input between
+# the ""
 def write_to_file(to_file):
-    file = open("/Users/ellen/cfg-python/CFG-Assignments/assignmentTwo/certificate_of_participation.txt", "a+")
+    file = open("", "a+")
     to_file = check_for_special_characters(to_file)
     file.write(to_file + "\n")
     file.close()
 
 
-# Initialising player score at 0, and overwriting any existing certificate file with a new version.
+# Initialising player score at 0, and overwriting any existing certificate file with a new version. The correct file pathway should 
+# be input between the ""
 player_score_counter = 0
-file_start = open("/Users/ellen/cfg-python/CFG-Assignments/assignmentTwo/certificate_of_participation.txt", "w")
+file_start = open("", "w")
 file_start.write("Ellen's Film Trivia Quiz - Certificate of Participation\n")
 file_start.close()
 
