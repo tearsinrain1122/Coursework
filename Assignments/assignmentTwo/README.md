@@ -10,20 +10,3 @@ write each question and correct answer to a file, that records your score and ac
 > [!TIP]
 > If you do not type an integer between 1-4 corresponding to an answer for each question, the question will be recorded
 > as wrong - so type carefully!
-
-### How to download additional modules
-You may receive an error message like this one below:  
-![Module error message](screenshots/moduleErrorMessage.png)  
-This means you need to download an additional module (in this example, I needed to download the `requests`
-module) in order to run the python file. To do so, you can use `pip`, by typing in the following command 
-to your terminal (replacing `requests` with the module you wish to install):
-```commandline
-sudo pip3 install requests
-```
-I've saved a screenshot of my own command in the [Screenshots Directory](screenshots) too.  
-> [!NOTE]
-> `sudo` was used here because my laptop is a Mac, users of other systems may need to replace 
-> this with `-m`.  
-
-### Conclusion
-I hope you enjoy **Ellen's Film Trivia Quiz App**! :grinning: :movie_camera:
